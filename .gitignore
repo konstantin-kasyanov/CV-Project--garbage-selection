@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+images/
+labels/
+runs/
+*.pt
+*.log
+train.csv
+test.csv
+sample_submission.csv
+train_images.txt
+val_images.txt
+garbage.yaml
+submission*.csv
+validation*.csv

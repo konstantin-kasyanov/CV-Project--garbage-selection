@@ -1,0 +1,25 @@
+{
+  "checkpoint": "E:\\pets\\garbage\\runs\\yolo11s_960_50ep\\weights\\best_weighted.pt",
+  "imgsz": 1280,
+  "tta": false,
+  "weighted_map50_95": 0.8698116076076642,
+  "map50_95": 0.8611086329986404,
+  "map50": 0.9567764197784653,
+  "val_class_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ]
+}
